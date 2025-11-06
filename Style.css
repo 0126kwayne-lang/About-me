@@ -25,11 +25,16 @@ body{
 
 }
 .RightAlign{
-    background-color: whitesmoke;
-    border: 5px solid gray;
+    background-color: black;
+    border: 5px solid white;
 }
 
 .button1{
     background-color: red;
     border: 5px solid blue
+}
+
+.button2{
+    border: 5px solid;
+    border-color: blue;
 }
