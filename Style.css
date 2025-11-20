@@ -30,11 +30,12 @@ body{
 }
 
 .button1{
-    background-color: red;
+    border-color: red;
     border: 5px solid blue
 }
 
 .button2{
     border: 5px solid;
     border-color: blue;
+    
 }
