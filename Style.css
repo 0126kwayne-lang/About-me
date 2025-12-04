@@ -37,5 +37,6 @@ body{
 .button2{
     border: 5px solid;
     border-color: blue;
-    
+    display: flex;
+    align-content: start;
 }
