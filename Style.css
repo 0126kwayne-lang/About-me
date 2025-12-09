@@ -41,6 +41,6 @@ body{
     align-content: start;   
 }
 h1{
-    display: flex;
     text-align: center;
+    margin: 0 auto;
 }
