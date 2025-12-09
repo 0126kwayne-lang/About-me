@@ -38,5 +38,9 @@ body{
     border: 5px solid;
     border-color: blue;
     display: flex;
-    align-content: start;
+    align-content: start;   
+}
+h1{
+    display: flex;
+    align-items: center;
 }
