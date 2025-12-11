@@ -9,10 +9,13 @@ body{
 .box{
     float: left;
     width: 33.33%;
-    height:50px;
+    height: 50px;
     padding: 15px;
     color: white;
     box-sizing: border-box;
+}
+.box.LeftAlign{
+    height: 50px;
 }
 .LeftAlign{
     background-color: aqua;
