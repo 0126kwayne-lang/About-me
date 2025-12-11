@@ -14,12 +14,6 @@ body{
     color: white;
     box-sizing: border-box;
 }
-.box.LeftAlign{
-    height: 150px;
-}
-.box.RightAlign{
-    height: 150px;
-}
 .LeftAlign{
     background-color: aqua;
     border: 3px solid yellow;
@@ -33,16 +27,16 @@ body{
 }
 .RightAlign{
     background-color: black;
-    border: 5px solid white;
+    border: 3px solid white;
 }
 
 .button1{
     border-color: red;
-    border: 5px solid blue
+    border: 3px solid blue
 }
 
 .button2{
-    border: 5px solid;
+    border: 3px solid;
     border-color: blue;
     display: flex;
     align-content: start;   
