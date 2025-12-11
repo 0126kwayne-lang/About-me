@@ -9,6 +9,7 @@ body{
 .box{
     float: left;
     width: 33.33%;
+    min-height: 150px;
     padding: 15px;
     color: white;
     box-sizing: border-box;
