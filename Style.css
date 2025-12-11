@@ -14,7 +14,7 @@ body{
     box-sizing: border-box;
 }
 .box.LeftAlign{
-    height: 50px;
+    height: 150px;
 }
 .LeftAlign{
     background-color: aqua;
